@@ -4,6 +4,6 @@ dummy_date = {
     "value": 42,
     "status": "active",
     "id": 1,
-    "name": "Sample",
+    "name": "Sample", 
 }
 # This is the main entry point of the program
