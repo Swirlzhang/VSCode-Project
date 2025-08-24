@@ -1,0 +1,1 @@
+Module_B_2:str = "This is Module B_2"
